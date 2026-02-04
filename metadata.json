@@ -1,0 +1,7 @@
+{
+  "name": "StoneCalc BD - পাথরের হিসাব",
+  "description": "A comprehensive stone measurement and calculation app for construction and supply business, supporting Murubba, Meter, and Piece conversions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
